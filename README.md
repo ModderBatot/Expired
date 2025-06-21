@@ -15,7 +15,7 @@
     {
       "username": "batot",
       "password": "batot",
-      "expiryDate": "2025-06-21",
+      "expiryDate": "2025-06-20",
       "deviceId": "8970cdd66251cceb"
     },
     {
