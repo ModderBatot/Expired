@@ -13,10 +13,10 @@
   "instagramUrl": "https://instagram.com/your_instagram_profile",
   "users": [
     {
-      "username": "YammyMods",
-      "password": "YammyMods",
-      "expiryDate": "2025-06-19",
-      "deviceId": "a9d565368f4da707"
+      "username": "batot",
+      "password": "batot",
+      "expiryDate": "2025-06-22",
+      "deviceId": "8970cdd66251cceb"
     },
     {
       "username": "#",
