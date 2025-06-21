@@ -1,7 +1,7 @@
 # Expired
 {
-  "loginTitle": "YAMMY MODS LOGIN",
-  "loginDescription": "Your purchase is complete. Please login.",
+  "loginTitle": "Batot Modder 💻",
+  "loginDescription": "contact with me to activate your device",
   "loginButtonText": "Login",
   "contactButtonText": "Contact",
   "expiredTitle": "Subscription Expired",
